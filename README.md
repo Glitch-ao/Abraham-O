@@ -4,7 +4,8 @@
 - <b>[Google Cyber Security Professional] </b>
 - <b>[CompTIA Security+] </b>
 - <b>[CompTIA CySA+] </b>
--<a href="(https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url">CompTIA Security Analytics Professional</a> 
+[Click here to visit TryHackMe](https://tryhackme.com)
+
   
 <h2>👨‍💻 CyberSecurity Technical Projects:</h2>
 
