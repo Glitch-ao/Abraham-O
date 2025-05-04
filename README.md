@@ -4,7 +4,7 @@
 - <b>[Google Cyber Security Professional] </b>
 - <b>[CompTIA Security+] </b>
 - <b>[CompTIA CySA+] </b>
-- [CompTIA Security Analytics Professional (CSAP) - Stackable Certification](https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url) 
+-<a href="(https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url">CompTIA Security Analytics Professional</a> 
   
 <h2>👨‍💻 CyberSecurity Technical Projects:</h2>
 
@@ -15,7 +15,7 @@
 
 
 - <b>System & Network Security Implementation </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url))
 - <b>Threat Intelligence & Threat Gathering </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Techniques to Determine Malicious Activity </b>
