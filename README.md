@@ -9,9 +9,9 @@
 
 ## 👨‍💻CyberSecurity Technical Projects
  **LetsDefend Platform**
-- **SOC335** - CVE-2024-49138 Exploitation Detected 
-- **SOC338** - Lumma Stealer - DLL Side-Loading via Click Fix Phishing 
-- **[SOC176** - RDP Brute Force Detected](https://github.com/Glitch-ao/SOC176---RDP-Brute-Force-Detected)
+- **[SOC335- CVE-2024-49138 Exploitation Detected](https://github.com/Glitch-ao/SOC335-CVE-2024-49138-Exploitation-Detected)**
+- **[SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing](https://github.com/Glitch-ao/SOC338---Lumma-Stealer---DLL-Side-Loading-via-Click-Fix-Phishing)**
+- **[SOC176 - RDP Brute Force Detected](https://github.com/Glitch-ao/SOC176---RDP-Brute-Force-Detected)**
 
 **Labs**
 - **System & Network Security Implementation** 
