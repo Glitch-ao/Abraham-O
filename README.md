@@ -12,6 +12,7 @@
 - **SOC335** - CVE-2024-49138 Exploitation Detected 
 - **SOC338** - Lumma Stealer - DLL Side-Loading via Click Fix Phishing 
 - **SOC176** - RDP Brute Force Detected 
+
 **Labs**
 - **System & Network Security Implementation** 
   - [Secure Enterprise Network Deployment]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url))
