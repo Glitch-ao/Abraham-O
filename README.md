@@ -8,34 +8,34 @@
 
 ## 👨‍💻CyberSecurity Technical Projects
 
-- **SOC335** - CVE-2024-49138 Exploitation Detected </b>
-- **SOC338** - Lumma Stealer - DLL Side-Loading via Click Fix Phishing </b>
-- **SOC176** - RDP Brute Force Detected </b>
+- **SOC335** - CVE-2024-49138 Exploitation Detected 
+- **SOC338** - Lumma Stealer - DLL Side-Loading via Click Fix Phishing 
+- **SOC176** - RDP Brute Force Detected 
 
-
-
-- <b>System & Network Security Implementation </b>
-  - [Praciting DS & Algos in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url))
-- <b>Threat Intelligence & Threat Gathering </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Techniques to Determine Malicious Activity </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Vulnerability Scanning Tools & Techniques</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Identifying & Analyzing Malicious Activity</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Tools for Identifying Malicious Activity </b>
-- <b> Attack Methodology Frameworks </b>
-- <b> Vulnerability Data Analysis and Prioritization </b>
-- <b> Incident Response Management Techniques </b>
-- <b> Incident Response Communication & Reporting </b>
-- <b> Vulnerability Reporting Concepts </b>
-- <b> Vulnerability Patching & Attack Surface Management </b>
+- **System & Network Security Implementation** 
+  - [Secure Enterprise Network Deployment]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url))
+- **Threat Intelligence & Threat Gathering**
+  - [Threat Intelligence Lifecycle Implementation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- **Techniques to Determine Malicious Activity**
+  - [Behavioural Analysis of Suspicious Activity](https://github.com/joshmadakor1/Sentinel-Lab)
+- **Vulnerability Scanning Tools & Techniques**
+  - [Network Vulnerability Assesment](https://github.com/joshmadakor1/EncrypterPOC)
+- **Identifying & Analyzing Malicious Activity**
+  - [Security Event Correlation and Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- **Tools for Identifying Malicious Activity**
+  - [Malicious Activity Detection]
+- **Attack Methodology Frameworks**
+  - Red Team vs Blue Team Simulation Using MITRE ATT&CK
+- **Vulnerability Data Analysis and Prioritization**
+  - Risk-Based Vulnerability Management 
+- **Incident Response Management Techniques**
+  - Incident Lifecycle Execution
+- **Incident Response Communication & Reporting**
+  - Incident Response Communication 
+- **Vulnerability Reporting Concepts**
+  - Executive and Technical Vulnerability Reporting 
+- **Vulnerability Patching & Attack Surface Management**
+  - Attack Surface Reduction & Patch Management Workflow 
 
 
 
