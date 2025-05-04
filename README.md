@@ -1,6 +1,6 @@
 # Hi, I'm Abraham!  
  **Service Desk Analyst & Aspiring Cybersecurity Professional**
-## Certifications 
+## 📄Certifications 
 - **[Google Cyber Security Professional](https://www.credly.com/badges/3bcd2e94-356c-4253-8bed-05638cbe89c3/public_url)**
 - **[CompTIA Security+](https://www.credly.com/badges/7092a76e-1800-4cd1-a50d-ace815281e67/public_url)**
 - **[CompTIA CySA+](https://www.credly.com/badges/0cb90543-49fc-4837-b0f5-7a1e1bba1d0f/public_url)**
