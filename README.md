@@ -1,17 +1,16 @@
-<h1>Hi, I'm Abraham! <br/><a 
- >Service Desk Analyst & Aspiring Cybersecurity Professional 
-<h2>🤳Certifications </h2>
-- <b>[Google Cyber Security Professional] </b>
-- <b>[CompTIA Security+] </b>
-- <b>[CompTIA CySA+] </b>
-[Click here to visit TryHackMe](https://tryhackme.com)
+# Hi, I'm Abraham!  
+ **Service Desk Analyst & Aspiring Cybersecurity Professional**
+## Certifications 
+- **[Google Cyber Security Professional](https://www.credly.com/badges/3bcd2e94-356c-4253-8bed-05638cbe89c3/public_url)**
+- **[CompTIA Security+](https://www.credly.com/badges/7092a76e-1800-4cd1-a50d-ace815281e67/public_url)**
+- **[CompTIA CySA+](https://www.credly.com/badges/0cb90543-49fc-4837-b0f5-7a1e1bba1d0f/public_url)**
+- **[CompTIA Security Analytics Professional – CSAP Stackable Certification](https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url)**
 
-  
-<h2>👨‍💻 CyberSecurity Technical Projects:</h2>
+## 👨‍💻CyberSecurity Technical Projects
 
-- <b>SOC335 - CVE-2024-49138 Exploitation Detected </b>
-- <b>SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing </b>
-- <b>SOC176 - RDP Brute Force Detected </b>
+- **SOC335** - CVE-2024-49138 Exploitation Detected </b>
+- **SOC338** - Lumma Stealer - DLL Side-Loading via Click Fix Phishing </b>
+- **SOC176** - RDP Brute Force Detected </b>
 
 
 
