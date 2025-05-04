@@ -16,26 +16,28 @@
   - [Secure Enterprise Network Deployment]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url))
 - **Threat Intelligence & Threat Gathering**
   - [Threat Intelligence Lifecycle Implementation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
 - **Techniques to Determine Malicious Activity**
   - [Behavioural Analysis of Suspicious Activity](https://github.com/joshmadakor1/Sentinel-Lab)
+
 - **Vulnerability Scanning Tools & Techniques**
   - [Network Vulnerability Assesment](https://github.com/joshmadakor1/EncrypterPOC)
+  - Risk-Based Vulnerability Management
+  - Executive and Technical Vulnerability Reporting
+  - Attack Surface Reduction & Patch Management Workflow
+
 - **Identifying & Analyzing Malicious Activity**
   - [Security Event Correlation and Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Malicious Activity Detection]
+
 - **Tools for Identifying Malicious Activity**
   - [Malicious Activity Detection]
-- **Attack Methodology Frameworks**
-  - Red Team vs Blue Team Simulation Using MITRE ATT&CK
-- **Vulnerability Data Analysis and Prioritization**
-  - Risk-Based Vulnerability Management 
+
 - **Incident Response Management Techniques**
   - Incident Lifecycle Execution
-- **Incident Response Communication & Reporting**
   - Incident Response Communication 
-- **Vulnerability Reporting Concepts**
-  - Executive and Technical Vulnerability Reporting 
-- **Vulnerability Patching & Attack Surface Management**
-  - Attack Surface Reduction & Patch Management Workflow 
+
+
 
 
 
