@@ -15,7 +15,7 @@
 
 **Labs**
 - **System & Network Security Implementation** 
-  - [Secure Enterprise Network Deployment]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.credly.com/badges/67ad70f8-db21-4ab3-95d9-622fde95b52f/public_url))
+  - [Secure Enterprise Network Deployment](https://github.com/Glitch-ao/Secure-Enterprise-Network-Deployment/blob/main/README.md)
 
 - **Techniques to Determine Malicious Activity**
   - [Threat Intelligence Lifecycle Implementation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
