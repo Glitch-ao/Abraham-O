@@ -19,8 +19,7 @@
 
 - **Techniques to Determine Malicious Activity**
   - [Threat Intelligence Lifecycle Implementation](https://github.com/Glitch-ao/Threat-Intelligence-Lifecyle-deployment/blob/main/README.md)
-  - [Behavioural Analysis of Suspicious Activity](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Security Event Correlation and Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Security Event Correlation and Analysis](https://github.com/Glitch-ao/Identifying-Analyzing-Malicious-Activity/blob/main/README.md)
   - [Malicious Activity Detection](https://github.com/Glitch-ao/Malicious-Activity-Detection/blob/main/README.md)
 
 - **Vulnerability Scanning Tools & Techniques**
