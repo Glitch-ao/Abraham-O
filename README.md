@@ -21,7 +21,7 @@
   - [Threat Intelligence Lifecycle Implementation](https://github.com/Glitch-ao/Threat-Intelligence-Lifecyle-deployment/blob/main/README.md)
   - [Behavioural Analysis of Suspicious Activity](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Security Event Correlation and Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Malicious Activity Detection]
+  - [Malicious Activity Detection](https://github.com/Glitch-ao/Malicious-Activity-Detection/blob/main/README.md)
 
 - **Vulnerability Scanning Tools & Techniques**
   - [Network Vulnerability Assesment](https://github.com/joshmadakor1/EncrypterPOC)
