@@ -24,7 +24,7 @@
   - [Malicious Activity Detection](https://github.com/Glitch-ao/Malicious-Activity-Detection/blob/main/README.md)
 
 - **Vulnerability Scanning Tools & Techniques**
-  - [Network Vulnerability Assesment](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Network Vulnerability Assesment](https://github.com/Glitch-ao/Vulnerability-scanning-tools-techniques/blob/main/README.md)
   - Risk-Based Vulnerability Management
   - Executive and Technical Vulnerability Reporting
   - Attack Surface Reduction & Patch Management Workflow
