@@ -18,7 +18,7 @@
   - [Secure Enterprise Network Deployment](https://github.com/Glitch-ao/Secure-Enterprise-Network-Deployment/blob/main/README.md)
 
 - **Techniques to Determine Malicious Activity**
-  - [Threat Intelligence Lifecycle Implementation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Threat Intelligence Lifecycle Implementation](https://github.com/Glitch-ao/Threat-Intelligence-Lifecyle-deployment/blob/main/README.md)
   - [Behavioural Analysis of Suspicious Activity](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Security Event Correlation and Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Malicious Activity Detection]
