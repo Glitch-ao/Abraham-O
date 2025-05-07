@@ -24,9 +24,8 @@
 
 - **Vulnerability Scanning Tools & Techniques**
   - [Network Vulnerability Assesment](https://github.com/Glitch-ao/Vulnerability-scanning-tools-techniques/blob/main/README.md)
-  - Risk-Based Vulnerability Management
-  - Executive and Technical Vulnerability Reporting
-  - Attack Surface Reduction & Patch Management Workflow
+  - [Risk-Based Vulnerability Management](https://github.com/Glitch-ao/Risk-based-Vulnerability-Management/blob/main/README.md)
+  - [Attack Surface Reduction & Patch Management Workflow](https://github.com/Glitch-ao/Attack-Surface-Reduction-Patch-management-Workflow/blob/main/README.md)
 
 - **Incident Response Management Techniques**
   - Incident Lifecycle Execution
