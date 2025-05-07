@@ -28,8 +28,8 @@
   - [Attack Surface Reduction & Patch Management Workflow](https://github.com/Glitch-ao/Attack-Surface-Reduction-Patch-management-Workflow/blob/main/README.md)
 
 - **Incident Response Management Techniques**
-  - Incident Lifecycle Execution
-  - Incident Response Communication 
+  - [Incident Lifecycle Execution](https://github.com/Glitch-ao/Incident-Lifecycle-Execution/blob/main/README.md) 
+  - [Incident Response Communication](https://github.com/Glitch-ao/Incident-Response-Communication/blob/main/README.md) 
 
 
 
